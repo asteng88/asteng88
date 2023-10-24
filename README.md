@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asteng88
 - 👀 I’m interested in photography and python programming
-- 🌱 I’m currently learning PyQt6 as a front end
-- 💞️ I’m looking to collaborate on anything when I get proficient
+- 🌱 I’m currently using PyQt6 as a front end development for my python GUI's
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
 
 <!---
